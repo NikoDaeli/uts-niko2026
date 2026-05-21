@@ -1,4 +1,4 @@
-# 🌿 JAMUKU - Racik Jamu Tradisionalmu
+#  JAMUKU - Racik Jamu Tradisionalmu
 
 <div align="center">
   
@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 IDENTITAS MAHASISWA
+##  IDENTITAS MAHASISWA
 
 | **Keterangan** | **Detail** |
 |----------------|------------|
@@ -21,13 +21,13 @@
 
 ---
 
-## 📌 SLIDE PRESENTASI
+##  SLIDE PRESENTASI
 
-### 🎯 SLIDE 1 - Latar Belakang & Tujuan
+###  SLIDE 1
 
 <div align="center">
   
-![Slide 1 - Latar Belakang](https://img.freepik.com/free-vector/jamu-herbal-drink-illustration_23-2149374288.jpg)
+![Slide 1 - Latar Belakang](https://i.ibb.co.com/bMbkBwpJ/Screenshot-2026-05-21-123848.png)
 
 ### **Latar Belakang Masalah**
 
