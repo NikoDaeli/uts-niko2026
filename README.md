@@ -47,11 +47,11 @@
 
 ---
 
-### 🛠️ SLIDE 2 - Fitur & Teknologi
+### 🛠️ SLIDE 2
 
 <div align="center">
   
-![Slide 2 - Fitur](https://img.freepik.com/free-vector/website-development-illustration_52683-77580.jpg)
+![Slide 2 - Fitur](https://i.ibb.co.com/DHSy6WVK/Screenshot-2026-05-21-120732.png)
 
 ### **Fitur Unggulan**
 
