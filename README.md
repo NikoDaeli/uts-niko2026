@@ -47,7 +47,7 @@
 
 ---
 
-### 🛠️ SLIDE 2
+###  SLIDE 2
 
 <div align="center">
   
